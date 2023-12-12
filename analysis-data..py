@@ -17,11 +17,11 @@ import sweetviz as sv
 
 # DEFINE FUNCTIONS
 def get_csv():
-    return input("Enter your CSV file path or name: ")
+    return input("Enter your data file path or name: ")
     
 def get_output():
     while True:
-        output = input("Enter name where you want to save: ")
+        output = input("Enter name or path where you want to save: ")
         if output.lower().endswith('.html'):
             return output
         else:
