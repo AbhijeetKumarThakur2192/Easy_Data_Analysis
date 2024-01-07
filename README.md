@@ -20,6 +20,21 @@ This Python-based solution serves as a facilitator for individuals beginning the
 3. Enter a name for the output report with the '.html' extension.
 4. The Sweetviz report will be automatically generated based on the provided data.
 
+## To open an issue:
+
+1) Go to the "Issues" tab on this repository.
+2) Click on the "New Issue" button.
+3) Describe your question, problem, or feedback in detail.
+ 
+# Acknowledgements and Thanks 
+ 
+We extend our heartfelt gratitude to the creators and maintainers of Python, Sweetviz and the Pandas library. This project owes its functionality, efficiency, and versatility to the robustness of Python as a programming language and the powerful data manipulation capabilities offered by the Pandas library. We deeply appreciate the continuous efforts of these open-source communities, which have been instrumental in the development and success of this tool.
+
+# Gratitude to the Learning Community
+
+I extend my deepest appreciation to the vast and diverse community of content creators, educators, and online platforms whose collective efforts have been indispensable in my journey of learning Python. The wealth of knowledge shared by numerous YouTube channels, websites, forums, and online website has played an integral role in enhancing my understanding and proficiency in Python programming.
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE)
