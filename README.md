@@ -28,7 +28,7 @@ This Python-based solution serves as a facilitator for individuals beginning the
  
 # Acknowledgements and Thanks 
  
-We extend our heartfelt gratitude to the creators and maintainers of Python, Sweetviz and the Pandas library. This project owes its functionality, efficiency, and versatility to the robustness of Python as a programming language and the powerful data manipulation capabilities offered by the Pandas library. We deeply appreciate the continuous efforts of these open-source communities, which have been instrumental in the development and success of this tool.
+I extend my heartfelt gratitude to the creators and maintainers of Python and the Pandas library. This project owes its functionality, efficiency, and versatility to the robustness of Python as a programming language, the insightful analysis provided by Sweetviz and the powerful data manipulation capabilities offered by the Pandas library. I deeply appreciate the continuous efforts of these open-source communities, which have been instrumental in the development and success of this tool.
 
 # Gratitude to the Learning Community
 
