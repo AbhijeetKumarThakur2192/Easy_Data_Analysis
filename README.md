@@ -20,6 +20,11 @@ This Python-based solution serves as a facilitator for individuals beginning the
 3. Enter a name for the output report with the '.html' extension.
 4. The Sweetviz report will be automatically generated based on the provided data.
 
+## Need Help or Have Questions? Open a GitHub Issue!
+
+ If you encounter any difficulties, have questions, or want to provide feedback, please don't hesitate to open a GitHub issue. Your input is valuable, and I'm here to assist you! Creating an issue allows me to track and address concerns promptly, ensuring a better experience for everyone using this project.
+
+
 ## To open an issue:
 
 1) Go to the "Issues" tab on this repository.
